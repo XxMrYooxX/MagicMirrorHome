@@ -1,0 +1,56 @@
+{
+    "anytime" : [
+        "Willkommen zurück!"
+    ],
+    "morning" : [
+        "Who needs coffee when you have your smile?",
+        "Guten Morgen!", 
+        "Enjoy your day!"
+    ],
+    "afternoon" : [
+        "Hitting your stride!",
+        "You are making a difference!",
+        "You're more fun than bubble wrap!",
+        "Hallo zurück!",
+        "Du siehst gut aus!"
+    ],
+    "evening" : [
+        "You made someone smile today, I know it.",
+        "You are making a difference.",
+        "The day was better for your efforts.",
+        "Hab einen guten Abend"
+    ],
+    "rain" : [
+        "Es regnet, denk an einen Schrim!"
+    ],
+    "thunderstorm" : [
+        "Es stürmt, nimm besser das Auto!",
+        "Denk an einen Schirm"
+    ],
+    "snow" : [
+        "Es schneit *_*", 
+        "Lass uns einen Schneemann bauen?"
+    ],
+    "night_rain" : [
+        "Es ist dunkel und regnet. \n Bleib lieber hier"
+    ],
+    "night_thunderstorm" : [
+        "Es ist dunkel und stürmt. Bleib zuhause."
+    ],
+    "day_sunny" : [
+        "Beweg dein Arsch raus, das Wetter ist geil!", 
+        "Es ist sonnig,\n auch wenn man es in dieser Wohnung nicht wahr nimmt"
+    ],
+    "....-01-01" : [
+        "Happy new year!"
+    ],
+    "....-02-24" : [
+        "Happy Birthday Charline <3"
+    ],
+    "....-02-19" : [
+        "Happy Birthday Schöpfer"
+    ],
+    "....-12-24" : [
+        "Frohe Weihnachten"
+    ]
+}
